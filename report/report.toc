@@ -1,0 +1,39 @@
+\contentsline {section}{\numberline {1}大作业概论}{3}{section.1}%
+\contentsline {section}{\numberline {2}数据与任务描述}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}数据来源与字段简介}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}预测任务}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}数据预处理}{3}{section.3}%
+\contentsline {section}{\numberline {4}特征学习}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}PCA （回归任务）}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}LDA （分类任务）}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}SelectKBest（回归与分类任务）}{4}{subsection.4.3}%
+\contentsline {section}{\numberline {5}实验数据集合集 }{4}{section.5}%
+\contentsline {section}{\numberline {6}实验设计}{5}{section.6}%
+\contentsline {subsection}{\numberline {6.1}滚动预测策略}{5}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}超参数网格}{5}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}回归模型}{5}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}分类模型}{6}{subsubsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.3}评估指标}{6}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}可视化}{6}{subsection.6.4}%
+\contentsline {section}{\numberline {7}实验结果与分析}{7}{section.7}%
+\contentsline {subsection}{\numberline {7.1}回归任务结果与分析}{7}{subsection.7.1}%
+\contentsline {paragraph}{结果}{7}{section*.8}%
+\contentsline {paragraph}{分析}{10}{section*.18}%
+\contentsline {subsection}{\numberline {7.2}分类任务结果与分析}{10}{subsection.7.2}%
+\contentsline {paragraph}{结果}{10}{section*.19}%
+\contentsline {paragraph}{分析}{12}{section*.26}%
+\contentsline {paragraph}{整体来看：}{13}{section*.27}%
+\contentsline {section}{附录：实验结果}{14}{section*.28}%
+\contentsline {section}{\numberline {A}回归任务结果}{14}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}线性模型}{14}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Lasso回归模型}{16}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.3}Ridge回归模型}{19}{subsection.A.3}%
+\contentsline {subsection}{\numberline {A.4}随机森林模型}{21}{subsection.A.4}%
+\contentsline {subsection}{\numberline {A.5}SVR}{23}{subsection.A.5}%
+\contentsline {section}{\numberline {A2}分类任务结果}{25}{appendix.B}%
+\contentsline {subsection}{\numberline {A2.1}KNN}{25}{subsection.B.1}%
+\contentsline {subsection}{\numberline {A2.2}Logistic}{29}{subsection.B.2}%
+\contentsline {subsection}{\numberline {A2.3}LDA}{33}{subsection.B.3}%
+\contentsline {subsection}{\numberline {A2.4}贝叶斯}{37}{subsection.B.4}%
+\contentsline {subsection}{\numberline {A2.5}随机森林}{40}{subsection.B.5}%
+\contentsline {subsection}{\numberline {A2.6}SVM}{43}{subsection.B.6}%
